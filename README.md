@@ -1,2 +1,2 @@
-# SpringPoker
+# SprintPoker
 Free Online Planning Poker &amp; Agile Story Point Estimation Tool
